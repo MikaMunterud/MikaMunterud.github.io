@@ -1,788 +1,787 @@
 [
-    {
-      "htmlIndex": "./html-recept/avoToast.html",
-      "recipeName": "Avokadotoast",
-      "date": "2022-10-25",
-      "categories": [
-        { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
-        { "category": "typeOfMeal", "name": "Huvudrätter", "value": "main" },
-        { "category": "typeOfDish", "name": "Mackor/wraps", "value": "sandwich" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "En enkel men otroligt smakrik toast som kan självklart göras hemma i köket men tillagas bäst över en öppen eld i ett grilljärn. Denna toast innehåller allt gott man kan tänka sig och lite till, en perfekt kombination av sött, salt och hetta.",
-      "images": [
-        "./img/avoToast-1.jpeg",
-        "./img/avoToast-2.jpeg",
-        "./img/avoToast-3.jpeg",
-        "./img/avoToast-4.jpeg"
-      ],
-      "portions": "2",
-      "utensils": "Smörgåsgrill",
-      "recommendedSides": "",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Skivor surdegsbröd", "qty": "8", "unit": "st" },
-            { "ingredient": "Pesto", "qty": "1", "unit": "dl" },
-            { "ingredient": "Senap", "qty": "1", "unit": "dl" },
-            { "ingredient": "Avokado", "qty": "2", "unit": "st" },
-            { "ingredient": "Rödlök", "qty": "1", "unit": "st" },
-            { "ingredient": "Soltorkade tomater", "qty": "1", "unit": "dl" },
-            { "ingredient": "Mozzarella", "qty": "2", "unit": "st" },
-            { "ingredient": "Spenat", "qty": "2", "unit": "dl" },
-            { "ingredient": "Jalapeño", "qty": "1", "unit": "dl" },
-            { "ingredient": "Olivolja", "qty": "", "unit": "" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            { "text": "Starta igång smörgåsgrillen." },
-            { "text": "Bred ut pesto och senap på brödskivorna." },
-            {
-              "text": "Skiva avokado, rödlök, soltorkade tomater och mozzarella."
-            },
-            {
-              "text": "Fördela alla ingredienser på hälften av brödskivorna och lägg på den andra brödskiva."
-            },
-            { "text": "Pensla olivolja på båda sidorna av smörgåsen." },
-            {
-              "text": "Tillaga i smörgåsgrillen tills osten har smält och mackorna har fått en fin gyllene färg."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/mooseStew.html",
-      "recipeName": "Älgskav",
-      "date": "2022-10-25",
-      "categories": [
-        { "category": "ingredient", "name": "Vilt", "value": "wildMeat" },
-        { "category": "typeOfMeal", "name": "Huvudrätter", "value": "main" },
-        { "category": "typeOfDish", "name": "Grytor", "value": "stew" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "Denna rätt är lätt att tillaga och kan serveras på många olika sätt. Finskivad älg tillagas med mycket rosépeppar, champinjoner, lök och grädde. Är lika god till hemlagad potatismos som i en wrap.",
-      "images": [
-        "./img/mooseStew-1.jpeg",
-        "./img/mooseStew-2.jpeg",
-        "./img/mooseStew-3.jpeg",
-        "./img/mooseStew-4.jpeg"
-      ],
-      "portions": "6",
-      "utensils": "",
-      "recommendedSides": "Lingonsylt/ svartvinbärsgele, potatismos eller ugnsrostade rotsaker",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Älgkött", "qty": "1", "unit": "kg" },
-            { "ingredient": "Stor gullök", "qty": "1", "unit": "st" },
-            { "ingredient": "Svamp", "qty": "250", "unit": "g" },
-            { "ingredient": "Vispgrädde", "qty": "5", "unit": "dl" },
-            { "ingredient": "Vetemjöl", "qty": "2", "unit": "msk" },
-            { "ingredient": "Soja", "qty": "2", "unit": "msk" },
-            {
-              "ingredient": "Smör och rapsolja till stekning",
-              "qty": "",
-              "unit": ""
-            },
-            {
-              "ingredient": "Rosépeppar, svartpeppar, salt",
-              "qty": "",
-              "unit": ""
-            }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            { "text": "Skava älgköttet (skär i fina tunna skivor)." },
-            { "text": "Skiva gullök och svamp." },
-            { "text": "Fräs gullök i smör och rapsolja." },
-            { "text": "Tillsätt köttet när löken har mjuknat." },
-            { "text": "Stek svampen separat i rikligt med smör." },
-            { "text": "Häll mjölet över köttet, rör om och tillsätt grädde." },
-            {
-              "text": "Smaksätt med salt och peppar och servera med valfritt tillbehör."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/avoEggsBenedict.html",
-      "recipeName": "Avokado Eggs Benedict",
-      "date": "2022-10-25",
-      "categories": [
-        { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
-        { "category": "typeOfMeal", "name": "Brunch", "value": "brunch" },
-        { "category": "typeOfDish", "name": "Mackor/wraps", "value": "sandwich" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "Här hittar du den perfekta mackan till brunchen! Vi har tagit den klassiska rätten Eggs Benedict och gjort den vegetarisk. På ett rostat surdegsbröd har vi philadelphiaost, avokado, pocherat ägg och fluffig hollandaisesås.",
-      "images": [
-        "./img/avoEgg-1.jpeg",
-        "./img/avoEgg-2.jpeg",
-        "./img/avoEgg-3.jpeg",
-        "./img/avoEgg-4.jpeg"
-      ],
-      "portions": "2",
-      "utensils": "Glasskål till hollandaisesåsen",
-      "recommendedSides": "Apelsinjuice",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Skivor surdegsbröd", "qty": "4", "unit": "st" },
-            { "ingredient": "Philadelphiaost", "qty": "0.5", "unit": "dl" },
-            { "ingredient": "Avocado", "qty": "2", "unit": "st" },
-            { "ingredient": "Ägg", "qty": "4", "unit": "st" },
-            { "ingredient": "Vitvinsvinäger", "qty": "1", "unit": "msk" },
-            { "ingredient": "Chiliflakes", "qty": "", "unit": "" }
-          ]
-        },
-        {
-          "title": "Hollandaisesås",
-          "ingredients": [
-            { "ingredient": "Äggulor", "qty": "2", "unit": "st" },
-            { "ingredient": "Vitvinsvinäger", "qty": "1", "unit": "tsk" },
-            { "ingredient": "Smör", "qty": "150", "unit": "g" },
-            { "ingredient": "Citronjuice", "qty": "2", "unit": "tsk" },
-            { "ingredient": "Vitpeppar, salt", "qty": "", "unit": "" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            {
-              "text": "Lägg brödskivorna i en brödrost eller smörstek dem. Låt svalna genom att ställa brödskivorna mot varandra (lägg inte direkt på en tallrik för då kan bröden bli mjuka)."
-            },
-            { "text": "Smält smöret och ställ åt sidan för att svalna." },
-            {
-              "text": "Koka upp rikligt med vatten och tillsätt 2 msk vitvinsvinäger och ha plåten på medel-hög temperatur."
-            },
-            {
-              "text": "Pochera äggen genom att lägga ägget i ett litet glas, göra en virvel i vattnet, lägg i ägget och låt ägget småkoka i 3.5 min."
-            },
-            {
-              "text": "Lägg de pocherade äggen på en tallrik med hushållspapper."
-            },
-            {
-              "text": "Bred på philadelphiaost, skivad avokado, chiliflakes, pocherat ägg och toppa med hollandaisesåsen på varje rostad surdegsbrödskiva."
-            }
-          ]
-        },
-        {
-          "title": "Hollandaisesås",
-          "description": [
-            {
-              "text": "Koka upp lite vatten och häll i en skål som en glasskålen kan placeras ovanpå."
-            },
-            {
-              "text": "Vispa äggulor och vitvinsvinäger i glasskålen över det kokta vattnet."
-            },
-            {
-              "text": "Tillsätt det smälta smöret (enbart den delen av smöret som är klart/klarifierat) i en liten stråle under konstant vispning."
-            },
-            {
-              "text": "Tillsätt citronjuice, vitpeppar och salt. Om såsen är för tjock kan man tillsätta lite av det 'vita smöret' som blev över tills man får den konsitensen man önskar."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/fetaSpinacheSalmon.html",
-      "recipeName": "Spenat & fetaost lax",
-      "date": "2022-10-25",
-      "categories": [
-        { "category": "ingredient", "name": "Fisk", "value": "fish" },
-        { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
-        { "category": "typeOfDish", "name": "Gratänger", "value": "gratin" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "Ungsbakad lax med ett täcke av spenat och fetaostkräm. En perfekt kombination av sälta och sötmna smaksätter laxen och skapar en måltid du sent kommer att glömma! Bassar bra både tillsamans med ungsrostade rotfrukter, ris eller matvete.",
-      "images": [
-        "./img/ovenSalmon-1.jpeg",
-        "./img/ovenSalmon-2.jpeg",
-        "./img/ovenSalmon-3.jpeg",
-        "./img/ovenSalmon-4.jpeg"
-      ],
-      "portions": "6",
-      "utensils": "Ungstermometer",
-      "recommendedSides": "Ungsrostade rotsaker eller pressad potatis",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Laxsida", "qty": "1", "unit": "kg" },
-            { "ingredient": "Fetaost", "qty": "300", "unit": "g" },
-            { "ingredient": "Spenat", "qty": "130", "unit": "g" },
-            { "ingredient": "Creme fraiche", "qty": "2", "unit": "dl" },
-            { "ingredient": "Vitpeppar", "qty": "", "unit": "" },
-            { "ingredient": "Salt", "qty": "", "unit": "" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            { "text": "Sätt ugnen på 150°C." },
-            {
-              "text": "Fyll en ungsform med bakplåtspapper, lägg i laxsidan och salta i god tid innan tillagning."
-            },
-            {
-              "text": "Hacka fetaost och spenat, blanda ihop med creme fraichen och lägg som ett täcke på laxen."
-            },
-            {
-              "text": "Stick in ungstermometern i laxen och tillaga i ungnen tills laxen blir 47°C."
-            },
-            {
-              "text": "Ta ut laxen från ugnen och låt vila tills innertemperaturen är cirka 55°C."
-            },
-            { "text": "Servera tillsammans med önskat tillbehör." }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/asianSalmon.html",
-      "recipeName": "Asiatisk lax",
-      "date": "2022-11-21",
-      "categories": [
-        { "category": "ingredient", "name": "Fisk", "value": "fish" },
-        { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
-        { "category": "typeOfDish", "name": "Gratänger", "value": "gratin" },
-        { "category": "worldKitchen", "name": "Asiatisk mat", "value": "asian" }
-      ],
-      "shortInfo": "Denna maträtt är sprängdfylld av smaker från det asiatiska köket! Laxen bakas med ett täcke av sweet chili, teriyaki och olika färska kryddor och passar bra som extra sås när rätten ska serveras.",
-      "images": [
-        "./img/asianSalmon-1.jpeg",
-        "./img/asianSalmon-2.jpeg",
-        "./img/asianSalmon-3.jpeg",
-        "./img/asianSalmon-4.jpeg"
-      ],
-      "portions": "6",
-      "utensils": "Ungstermometer",
-      "recommendedSides": "Svart ris eller matvete",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Laxsida", "qty": "1", "unit": "kg" },
-            { "ingredient": "Sesamfrön", "qty": "2", "unit": "msk" },
-            { "ingredient": "Broccoli", "qty": "500", "unit": "g" },
-            { "ingredient": "Lime", "qty": "1", "unit": "st" },
-            { "ingredient": "Röd chili", "qty": "1", "unit": "st" },
-            { "ingredient": "Cashewnötter", "qty": "1", "unit": "dl" },
-            { "ingredient": "Olivolja", "qty": "1", "unit": "msk" },
-            { "ingredient": "Salt", "qty": "", "unit": "" }
-          ]
-        },
-        {
-          "title": "Glaze/ sås",
-          "ingredients": [
-            { "ingredient": "Sweet chilisås", "qty": "3", "unit": "dl" },
-            { "ingredient": "Teriyakisås", "qty": "3", "unit": "dl" },
-            { "ingredient": "Röd chili", "qty": "1", "unit": "st" },
-            { "ingredient": "Vitlöksklyftor", "qty": "4", "unit": "st" },
-            { "ingredient": "Ingefära", "qty": "4", "unit": "msk" },
-            { "ingredient": "Koriander", "qty": "1", "unit": "dl" },
-            { "ingredient": "Limeblad", "qty": "3", "unit": "st" },
-            { "ingredient": "Lime", "qty": "1", "unit": "st" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            { "text": "Sätt ugnen på 150°C." },
-            {
-              "text": "Fyll en ungsform med bakplåtspapper, lägg i laxsidan och salta i god tid innan tillagning."
-            },
-            {
-              "text": "Blanda sweet chillisås och teriyakisås i en stor skål."
-            },
-            {
-              "text": "Tillsätt hackad chili, vitlök, ingefära, koriander, limeblad, finrivet limeskal och limejuice i skålen."
-            },
-            {
-              "text": "Täck laxsidan med ett täcke av såsen, stick in ungstermometern i laxen och tillaga i ungnen tills laxen blir 47°C. "
-            },
-            {
-              "text": "Skär broccoli i buketter, om broccolin har en lång stamm, skala och skär mynt av den. Koka i lättsaltat vatten i ca 5 minuter. Häll av vattnet och tillsät olivolja och limeskal."
-            },
-            {
-              "text": "Rosta sesamfröna i en torr och het stekpanna, skär limen i tunna skivor och skär chilin i tunna skivor."
-            },
-            {
-              "text": "Ta ut laxen från ugnen och låt vila tills innertemperaturen är cirka 55°C. Garnera med sesamfrön, limeskivor och chili."
-            },
-            {
-              "text": "Servera med broccoli, chashewnötter och önskat tillbehör."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/moulesMarinieres.html",
-      "recipeName": "Moules Marinieres",
-      "date": "2022-11-24",
-      "categories": [
-        { "category": "ingredient", "name": "Skaldjur", "value": "seafood" },
-        { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
-        { "category": "typeOfDish", "name": "Grytor", "value": "stew" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "Moules Marinieres är en klassisk rätt med blåmusslor från Frankrike. Med en perfekt smakbalans från havet, färska örter, vitt vin och grädde. Rekomenderat tillbehör är frasigt vitlöksbröd.",
-      "images": [
-        "./img/moules-1.jpeg",
-        "./img/moules-2.jpeg",
-        "./img/moules-3.jpeg",
-        "./img/moules-4.jpeg"
-      ],
-      "portions": "2",
-      "utensils": "",
-      "recommendedSides": "Vitlöksbröd",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Blåmusslor", "qty": "1", "unit": "kg" },
-            { "ingredient": "Schalottenlökar", "qty": "3", "unit": "st" },
-            { "ingredient": "Vitlöksklyftor", "qty": "4", "unit": "st" },
-            { "ingredient": "Olivolja", "qty": "1", "unit": "msk" },
-            { "ingredient": "Vitt vin", "qty": "2", "unit": "dl" },
-            { "ingredient": "Vispgrädde", "qty": "5", "unit": "dl" },
-            { "ingredient": "Färsk persilja", "qty": "1", "unit": "dl" },
-            { "ingredient": "Salt, vitpeppar", "qty": "", "unit": "" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            {
-              "text": "Tvätta blåmusslorna noggrant och knacka försiktigt öppna musslor mot diskbänken. Släng alla musslor som inte stänger sig eller är trasiga."
-            },
-            { "text": "Skala och finhacka scharlottenlök och vitlök." },
-            {
-              "text": "Hetta upp olivolja i en stor gryta och fräs löken tills den har fått en gyllene färg."
-            },
-            {
-              "text": "Häll i vitt vin och när det har börjat koka tillsätt blåmusslor och låt koka under lock i cirka 10 minuter."
-            },
-            {
-              "text": "Släng alla musslor som inte har öppnat sig och lyft ur alla öppna musslor i en skål."
-            },
-            {
-              "text": "Tillsätt vispgrädde i grytan och koka upp. Smaksätt med 2/3 av persiljan, salt och vitpeppar."
-            },
-            {
-              "text": "Häll tillbaka blåmusslorna i grytan, granera med restrerande persilja och servera med valfrit önskat tillbehör."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/carrotCake.html",
-      "recipeName": "Morotstårta",
-      "date": "2022-11-25",
-      "categories": [
-        { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
-        { "category": "typeOfMeal", "name": "Efterrätt", "value": "dessert" },
-        { "category": "typeOfDish", "name": "Tårtor", "value": "cake" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "Här finner du en otroligt härlig trelagers morotstårta! Genom att finriva morötterna och använda olja istället för smör i degen bevaras tårtans saftighet. Limeskal i frostingen gör det lilla extra för en otrolig smak!",
-      "images": [
-        "./img/carrotCake-1.jpeg",
-        "./img/carrotCake-2.jpeg",
-        "./img/carrotCake-3.jpeg",
-        "./img/carrotCake-4.jpeg"
-      ],
-      "portions": "8-10",
-      "utensils": "3 st springformar 20cm Ø",
-      "recommendedSides": "",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Ägg", "qty": "4", "unit": "st" },
-            { "ingredient": "Socker", "qty": "4", "unit": "dl" },
-            { "ingredient": "Mjöl", "qty": "5", "unit": "dl" },
-            { "ingredient": "Solrosolja/ rapsolja", "qty": "3", "unit": "dl" },
-            { "ingredient": "Vaniljsocker", "qty": "1", "unit": "tsk" },
-            { "ingredient": "Bikarbonat", "qty": "2", "unit": "tsk" },
-            { "ingredient": "Bakpulver", "qty": "1", "unit": "tsk" },
-            { "ingredient": "Kanel", "qty": "1", "unit": "msk" },
-            { "ingredient": "Kardemumma", "qty": "1", "unit": "msk" },
-            { "ingredient": "Salt", "qty": "1", "unit": "nypa" },
-            { "ingredient": "Rivna morötter", "qty": "6", "unit": "dl" }
-          ]
-        },
-        {
-          "title": "Cream-cheese frosting",
-          "ingredients": [
-            { "ingredient": "Philadelphiaost", "qty": "400", "unit": "g" },
-            { "ingredient": "Rumsvarmt smör", "qty": "130", "unit": "g" },
-            { "ingredient": "Florsocker", "qty": "4.5", "unit": "dl" },
-            { "ingredient": "Vaniljsocker", "qty": "2", "unit": "tsk" },
-            { "ingredient": "Lime", "qty": "1", "unit": "st" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            {
-              "text": "Sätt ugnen på 175°C"
-            },
-            { "text": "Finriv morötterna" },
-            {
-              "text": "Vispa ägg och socker pösigt."
-            },
-            {
-              "text": "Blanda alla torra ingredienser för sig och rör ner i äggsmeten."
-            },
-            { "text": "Tillsätt olja och morötter." },
-            {
-              "text": "Smöra och mjöla springformarna."
-            },
-            {
-              "text": "Fördela smeten i formarna och grädda mitt i ugnen 20-25 minuter."
-            },
-            {
-              "text": "Ta ut formarna när de känns klara och låt svalna."
-            }
-          ]
-        },
-  
-        {
-          "title": "Botten",
-          "description": [
-            {
-              "text": "Vispa smöret till frostingen mjukt och tillsätt därefter philadelphiaosten."
-            },
-            {
-              "text": "Blanda i florsocker, vanlijsocker och limeskal till en jämn och fin smet."
-            }
-          ]
-        },
-        {
-          "title": "Montering",
-          "description": [
-            {
-              "text": "Jämna till tårtbottnarna om det behövs genom att skära bort lite på toppen."
-            },
-            {
-              "text": "Lägg en tårtbotten på ett fat och bred eller spritsa ett lager frosting, lägg på nästa tårtbotten, ett lager frosting och till sist den sista tårtbotten."
-            },
-            {
-              "text": "Ställ in i kylen i cirka 20-30 minuter för att låta glasyren stelna lite."
-            },
-            {
-              "text": "Går även att ställa glasyren i kylen om den känns för lös."
-            },
-            {
-              "text": "Stryk ett tunt lager glasyr på och runtom tårtan för att fånga upp smulor och låt svalna i kylen cirka 15 minuter. Fortsätt med detta steg tills tårtan har blivit jämn och töckt med så mycket glasyr som man önskar."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/frenchPotatoSallad.html",
-      "recipeName": "Fransk potatissallad",
-      "date": "2022-11-26",
-      "categories": [
-        { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
-        { "category": "typeOfMeal", "name": "Tillbehör", "value": "sides" },
-        { "category": "typeOfDish", "name": "Sallad", "value": "salad" },
-        {
-          "category": "worldKitchen",
-          "name": "Svensk/nordisk mat",
-          "value": "swedish"
-        }
-      ],
-      "shortInfo": "Fransk potatissallad är det perfekta tillbehöret för den som önskar en lätt och fräsch sallad. Passar väldigt bra till gravad lax.",
-      "images": [
-        "./img/potatosallad-1.jpeg",
-        "./img/potatosallad-2.jpeg",
-        "./img/potatosallad-3.jpeg",
-        "./img/potatosallad-4.jpeg"
-      ],
-      "portions": "6",
-      "utensils": "",
-      "recommendedSides": "Gravad lax",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Potatis", "qty": "900", "unit": "g" },
-            { "ingredient": "Soltorkade tomater", "qty": "200", "unit": "g" },
-            { "ingredient": "Sockerärtor", "qty": "150", "unit": "g" },
-            { "ingredient": "Rödlök", "qty": "1", "unit": "st" },
-            { "ingredient": "Kapris", "qty": "50", "unit": "g" }
-          ]
-        },
-        {
-          "title": "Dressing",
-          "ingredients": [
-            { "ingredient": "Olivolja", "qty": "4.5", "unit": "msk" },
-            { "ingredient": "Rödvinsvinäger", "qty": "1.5", "unit": "msk" },
-            { "ingredient": "Vatten", "qty": "1.5", "unit": "msk" },
-            { "ingredient": "Senap", "qty": "1", "unit": "msk" },
-            { "ingredient": "Honung", "qty": "1", "unit": "tsk" },
-            { "ingredient": "Citronjuice", "qty": "1", "unit": "tsk" },
-            { "ingredient": "Salt, vitpeppar", "qty": "", "unit": "" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            {
-              "text": "Koka upp vatten i en stor kastrull och tillaga potatisen."
-            },
-            {
-              "text": "När potatisarna är klara skölj i kallt vatten och dela till önskad storlek."
-            },
-            {
-              "text": "Hacka soltorkade tomater, sockerärter och skiva rödlöken."
-            },
-            {
-              "text": "Blanda potatisen med de hackade grönsakerna och kapris i en stor skål."
-            },
-            {
-              "text": "Blanda alla ingredienser för dressingen i en separat skål och fördela sedan över potatissalladen."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/greekPie.html",
-      "recipeName": "Grekisk paj",
-      "date": "2022-11-27",
-      "categories": [
-        { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
-        { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
-        { "category": "typeOfDish", "name": "Paj", "value": "pie" },
-        { "category": "worldKitchen", "name": "Grekisk mat", "value": "greek" }
-      ],
-      "shortInfo": "Denna vegetariska grekiska paj är perfekt både till den enkla vardagen eller som tillbehör på buffébordet! Den är enkel att göra men otroligt smakrik. Blir extra god med tsatziki till.",
-      "images": [
-        "./img/veggiePie-1.jpeg",
-        "./img/veggiePie-2.jpeg",
-        "./img/veggiePie-3.jpeg",
-        "./img/veggiePie-4.jpeg"
-      ],
-      "portions": "6",
-      "utensils": "Pajform",
-      "recommendedSides": "Tsatziki",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Mjöl", "qty": "4", "unit": "dl" },
-            { "ingredient": "Smör", "qty": "200", "unit": "g" },
-            { "ingredient": "Salt, peppar", "qty": "", "unit": "" }
-          ]
-        },
-        {
-          "title": "Äggstanning",
-          "ingredients": [
-            { "ingredient": "Mjölk", "qty": "7", "unit": "dl" },
-            { "ingredient": "Ägg", "qty": "7", "unit": "st" },
-            { "ingredient": "Vatten", "qty": "3", "unit": "msk" },
-            { "ingredient": "Salt, peppar", "qty": "", "unit": "" }
-          ]
-        },
-        {
-          "title": "Fyllning",
-          "ingredients": [
-            { "ingredient": "Grönkål", "qty": "100", "unit": "g" },
-            { "ingredient": "Rödlök", "qty": "0.5", "unit": "st" },
-            { "ingredient": "Purjolök", "qty": "1", "unit": "dl" },
-            { "ingredient": "Fetaost", "qty": "100", "unit": "g" },
-            { "ingredient": "Oliver", "qty": "12", "unit": "st" },
-            { "ingredient": "Soltorkade tomater", "qty": "12", "unit": "st" },
-            { "ingredient": "Tomat", "qty": "1", "unit": "st" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            {
-              "text": "Sätt ugnen på 200°C"
-            },
-            {
-              "text": "Blanda mjöl, smör, vatten, salt och peppar till en smidig deg och tryck ut i en pajform."
-            },
-            {
-              "text": "Gaffla degen och förgrädda mitt i ugnen i 10 minuter."
-            },
-            {
-              "text": "Skiva alla ingredienser till pajens fyllning och lägg dem på den förgräddade pajskalet."
-            },
-            {
-              "text": "Blanda alla ingredienser till stanningen i en bunke och häll sedan blandningen över pajen."
-            },
-            {
-              "text": "Grädda mitt i ugnen i cirka 40-50 minuter (börjar ytan bli för mörk kan man täcka pajen med alluminiumfolie)."
-            },
-            {
-              "text": "Ta ut pajen från ugnen och låt vila."
-            },
-            {
-              "text": "Servera tillsammans med önskat tillbehör."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "htmlIndex": "./html-recept/gongBaoJiDing.html",
-      "recipeName": "Gong Bao Ji Ding",
-      "date": "2022-11-28",
-      "categories": [
-        { "category": "ingredient", "name": "Kyckling", "value": "chicken" },
-        { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
-        { "category": "typeOfDish", "name": "Grytor", "value": "stew" },
-        { "category": "worldKitchen", "name": "Asiatisk mat", "value": "asian" }
-      ],
-      "shortInfo": "Gong Bao Ji Ding är en populär kinesisk rätt som kommer från Sichuan provinsen. I västvärlden är denna rätt mer känd som kungpao kyckling. Men detta recept är mer Sichuan autentisk.",
-      "images": [
-        "./img/chiliChicken-1.jpeg",
-        "./img/chiliChicken-2.jpeg",
-        "./img/chiliChicken-3.jpeg",
-        "./img/chiliChicken-4.jpeg"
-      ],
-      "portions": "6",
-      "utensils": "Wok",
-      "recommendedSides": "Svart ris eller svenskt matvete",
-      "allIngredients": [
-        {
-          "title": "main",
-          "ingredients": [
-            { "ingredient": "Kyckling", "qty": "1", "unit": "kg" },
-            { "ingredient": "Vegetabiliskolja", "qty": "0.5", "unit": "dl" },
-            { "ingredient": "Torkad chili", "qty": "40", "unit": "g" },
-            { "ingredient": "Sichuanpeppar", "qty": "1", "unit": "msk" },
-            { "ingredient": "Vitlöksklyftor", "qty": "8", "unit": "st" },
-            { "ingredient": "Ingefära", "qty": "3", "unit": "msk" },
-            { "ingredient": "Salladslök/ vårlök", "qty": "15", "unit": "st" },
-            {
-              "ingredient": "Osaltade rostade jordnötter",
-              "qty": "3.5",
-              "unit": "dl"
-            },
-            { "ingredient": "Majsmjöl", "qty": "2", "unit": "msk" },
-            { "ingredient": "Vatten", "qty": "1.5", "unit": "dl" }
-          ]
-        },
-        {
-          "title": "Kycklingmarinad",
-          "ingredients": [
-            { "ingredient": "Sojasås (kinesisk)", "qty": "2", "unit": "msk" },
-            { "ingredient": "Rödvin", "qty": "2", "unit": "msk" },
-            { "ingredient": "Majsmjöl", "qty": "2", "unit": "msk" }
-          ]
-        },
-        {
-          "title": "Gong Bao sås",
-          "ingredients": [
-            { "ingredient": "Honung", "qty": "0.5", "unit": "dl" },
-            { "ingredient": "Balsamvinäger", "qty": "0.5", "unit": "dl" },
-            { "ingredient": "Sesamolja", "qty": "1", "unit": "msk" },
-            { "ingredient": "Sojasås (kinesisk)", "qty": "2", "unit": "msk" }
-          ]
-        }
-      ],
-      "fullDescription": [
-        {
-          "title": "main",
-          "description": [
-            {
-              "text": "Tillaga valfritt tillbehör enligt förpackningens anvisningar (matvete behövs inte tillagas förens efter steg 7)."
-            },
-            {
-              "text": "Skär kycklingen i 1,5 cm bitar och lägg i en bunke med kycklingmarinad."
-            },
-            {
-              "text": "Ta bort fröna från chilin och hacka 1 cm bitar."
-            },
-            {
-              "text": "Hacka vårlöken till ca 1 cm bitar."
-            },
-            { "text": "Blanda Gong Bao såsen i en skål." },
-            {
-              "text": "Riv ingefära och finhacka vitlök."
-            },
-            {
-              "text": "Blanda vatten och majsmjöl i en skål och ställ åt sidan."
-            },
-            {
-              "text": "Värm en wok på hög temperatur och tillsätt olja, chili och sichauanpeppar några sekunder för att framhäva aromerna."
-            },
-            {
-              "text": "Tillsätt kycklingen och rör om i någon minut tills kycklingen har separerats och fått stekt yta."
-            },
-            {
-              "text": "Blanda i vitlök, ingefära och vårlök och fortsätt röra om till kycklingen är nästan klar."
-            },
-            {
-              "text": "Rör i Gong Bao såsen och majsmjöl-vattnet."
-            },
-            {
-              "text": "När såsen har tjocknat och kycklingen är klar, tillsätt jordnötterna och servera direkt tillsammans med önskat tillbehör."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-  
+  {
+    "htmlIndex": "./html-recept/avoToast.html",
+    "recipeName": "Avokadotoast",
+    "date": "2022-10-25",
+    "categories": [
+      { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
+      { "category": "typeOfMeal", "name": "Huvudrätter", "value": "main" },
+      { "category": "typeOfDish", "name": "Mackor/wraps", "value": "sandwich" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "En enkel men otroligt smakrik toast som kan självklart göras hemma i köket men tillagas bäst över en öppen eld i ett grilljärn. Denna toast innehåller allt gott man kan tänka sig och lite till, en perfekt kombination av sött, salt och hetta.",
+    "images": [
+      "./img/avoToast-1.jpeg",
+      "./img/avoToast-2.jpeg",
+      "./img/avoToast-3.jpeg",
+      "./img/avoToast-4.jpeg"
+    ],
+    "portions": "2",
+    "utensils": "Smörgåsgrill",
+    "recommendedSides": "",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Skivor surdegsbröd", "qty": "8", "unit": "st" },
+          { "ingredient": "Pesto", "qty": "1", "unit": "dl" },
+          { "ingredient": "Senap", "qty": "1", "unit": "dl" },
+          { "ingredient": "Avokado", "qty": "2", "unit": "st" },
+          { "ingredient": "Rödlök", "qty": "1", "unit": "st" },
+          { "ingredient": "Soltorkade tomater", "qty": "1", "unit": "dl" },
+          { "ingredient": "Mozzarella", "qty": "2", "unit": "st" },
+          { "ingredient": "Spenat", "qty": "2", "unit": "dl" },
+          { "ingredient": "Jalapeño", "qty": "1", "unit": "dl" },
+          { "ingredient": "Olivolja", "qty": "", "unit": "" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          { "text": "Starta igång smörgåsgrillen." },
+          { "text": "Bred ut pesto och senap på brödskivorna." },
+          {
+            "text": "Skiva avokado, rödlök, soltorkade tomater och mozzarella."
+          },
+          {
+            "text": "Fördela alla ingredienser på hälften av brödskivorna och lägg på den andra brödskiva."
+          },
+          { "text": "Pensla olivolja på båda sidorna av smörgåsen." },
+          {
+            "text": "Tillaga i smörgåsgrillen tills osten har smält och mackorna har fått en fin gyllene färg."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/mooseStew.html",
+    "recipeName": "Älgskav",
+    "date": "2022-10-25",
+    "categories": [
+      { "category": "ingredient", "name": "Vilt", "value": "wildMeat" },
+      { "category": "typeOfMeal", "name": "Huvudrätter", "value": "main" },
+      { "category": "typeOfDish", "name": "Grytor", "value": "stew" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "Denna rätt är lätt att tillaga och kan serveras på många olika sätt. Finskivad älg tillagas med mycket rosépeppar, champinjoner, lök och grädde. Är lika god till hemlagad potatismos som i en wrap.",
+    "images": [
+      "./img/mooseStew-1.jpeg",
+      "./img/mooseStew-2.jpeg",
+      "./img/mooseStew-3.jpeg",
+      "./img/mooseStew-4.jpeg"
+    ],
+    "portions": "6",
+    "utensils": "",
+    "recommendedSides": "Lingonsylt/ svartvinbärsgele, potatismos eller ugnsrostade rotsaker",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Älgkött", "qty": "1", "unit": "kg" },
+          { "ingredient": "Stor gullök", "qty": "1", "unit": "st" },
+          { "ingredient": "Svamp", "qty": "250", "unit": "g" },
+          { "ingredient": "Vispgrädde", "qty": "5", "unit": "dl" },
+          { "ingredient": "Vetemjöl", "qty": "2", "unit": "msk" },
+          { "ingredient": "Soja", "qty": "2", "unit": "msk" },
+          {
+            "ingredient": "Smör och rapsolja till stekning",
+            "qty": "",
+            "unit": ""
+          },
+          {
+            "ingredient": "Rosépeppar, svartpeppar, salt",
+            "qty": "",
+            "unit": ""
+          }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          { "text": "Skava älgköttet (skär i fina tunna skivor)." },
+          { "text": "Skiva gullök och svamp." },
+          { "text": "Fräs gullök i smör och rapsolja." },
+          { "text": "Tillsätt köttet när löken har mjuknat." },
+          { "text": "Stek svampen separat i rikligt med smör." },
+          { "text": "Häll mjölet över köttet, rör om och tillsätt grädde." },
+          {
+            "text": "Smaksätt med salt och peppar och servera med valfritt tillbehör."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/avoEggsBenedict.html",
+    "recipeName": "Avokado Eggs Benedict",
+    "date": "2022-10-25",
+    "categories": [
+      { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
+      { "category": "typeOfMeal", "name": "Brunch", "value": "brunch" },
+      { "category": "typeOfDish", "name": "Mackor/wraps", "value": "sandwich" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "Här hittar du den perfekta mackan till brunchen! Vi har tagit den klassiska rätten Eggs Benedict och gjort den vegetarisk. På ett rostat surdegsbröd har vi philadelphiaost, avokado, pocherat ägg och fluffig hollandaisesås.",
+    "images": [
+      "./img/avoEgg-1.jpeg",
+      "./img/avoEgg-2.jpeg",
+      "./img/avoEgg-3.jpeg",
+      "./img/avoEgg-4.jpeg"
+    ],
+    "portions": "2",
+    "utensils": "Glasskål till hollandaisesåsen",
+    "recommendedSides": "Apelsinjuice",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Skivor surdegsbröd", "qty": "4", "unit": "st" },
+          { "ingredient": "Philadelphiaost", "qty": "0.5", "unit": "dl" },
+          { "ingredient": "Avocado", "qty": "2", "unit": "st" },
+          { "ingredient": "Ägg", "qty": "4", "unit": "st" },
+          { "ingredient": "Vitvinsvinäger", "qty": "1", "unit": "msk" },
+          { "ingredient": "Chiliflakes", "qty": "", "unit": "" }
+        ]
+      },
+      {
+        "title": "Hollandaisesås",
+        "ingredients": [
+          { "ingredient": "Äggulor", "qty": "2", "unit": "st" },
+          { "ingredient": "Vitvinsvinäger", "qty": "1", "unit": "tsk" },
+          { "ingredient": "Smör", "qty": "150", "unit": "g" },
+          { "ingredient": "Citronjuice", "qty": "2", "unit": "tsk" },
+          { "ingredient": "Vitpeppar, salt", "qty": "", "unit": "" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          {
+            "text": "Lägg brödskivorna i en brödrost eller smörstek dem. Låt svalna genom att ställa brödskivorna mot varandra (lägg inte direkt på en tallrik för då kan bröden bli mjuka)."
+          },
+          { "text": "Smält smöret och ställ åt sidan för att svalna." },
+          {
+            "text": "Koka upp rikligt med vatten och tillsätt 2 msk vitvinsvinäger och ha plåten på medel-hög temperatur."
+          },
+          {
+            "text": "Pochera äggen genom att lägga ägget i ett litet glas, göra en virvel i vattnet, lägg i ägget och låt ägget småkoka i 3.5 min."
+          },
+          {
+            "text": "Lägg de pocherade äggen på en tallrik med hushållspapper."
+          },
+          {
+            "text": "Bred på philadelphiaost, skivad avokado, chiliflakes, pocherat ägg och toppa med hollandaisesåsen på varje rostad surdegsbrödskiva."
+          }
+        ]
+      },
+      {
+        "title": "Hollandaisesås",
+        "description": [
+          {
+            "text": "Koka upp lite vatten och häll i en skål som en glasskålen kan placeras ovanpå."
+          },
+          {
+            "text": "Vispa äggulor och vitvinsvinäger i glasskålen över det kokta vattnet."
+          },
+          {
+            "text": "Tillsätt det smälta smöret (enbart den delen av smöret som är klart/klarifierat) i en liten stråle under konstant vispning."
+          },
+          {
+            "text": "Tillsätt citronjuice, vitpeppar och salt. Om såsen är för tjock kan man tillsätta lite av det 'vita smöret' som blev över tills man får den konsitensen man önskar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/fetaSpinacheSalmon.html",
+    "recipeName": "Spenat & fetaost lax",
+    "date": "2022-10-25",
+    "categories": [
+      { "category": "ingredient", "name": "Fisk", "value": "fish" },
+      { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
+      { "category": "typeOfDish", "name": "Gratänger", "value": "gratin" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "Ungsbakad lax med ett täcke av spenat och fetaostkräm. En perfekt kombination av sälta och sötmna smaksätter laxen och skapar en måltid du sent kommer att glömma! Bassar bra både tillsamans med ungsrostade rotfrukter, ris eller matvete.",
+    "images": [
+      "./img/ovenSalmon-1.jpeg",
+      "./img/ovenSalmon-2.jpeg",
+      "./img/ovenSalmon-3.jpeg",
+      "./img/ovenSalmon-4.jpeg"
+    ],
+    "portions": "6",
+    "utensils": "Ungstermometer",
+    "recommendedSides": "Ungsrostade rotsaker eller pressad potatis",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Laxsida", "qty": "1", "unit": "kg" },
+          { "ingredient": "Fetaost", "qty": "300", "unit": "g" },
+          { "ingredient": "Spenat", "qty": "130", "unit": "g" },
+          { "ingredient": "Creme fraiche", "qty": "2", "unit": "dl" },
+          { "ingredient": "Vitpeppar", "qty": "", "unit": "" },
+          { "ingredient": "Salt", "qty": "", "unit": "" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          { "text": "Sätt ugnen på 150°C." },
+          {
+            "text": "Fyll en ungsform med bakplåtspapper, lägg i laxsidan och salta i god tid innan tillagning."
+          },
+          {
+            "text": "Hacka fetaost och spenat, blanda ihop med creme fraichen och lägg som ett täcke på laxen."
+          },
+          {
+            "text": "Stick in ungstermometern i laxen och tillaga i ungnen tills laxen blir 47°C."
+          },
+          {
+            "text": "Ta ut laxen från ugnen och låt vila tills innertemperaturen är cirka 55°C."
+          },
+          { "text": "Servera tillsammans med önskat tillbehör." }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/asianSalmon.html",
+    "recipeName": "Asiatisk lax",
+    "date": "2022-11-21",
+    "categories": [
+      { "category": "ingredient", "name": "Fisk", "value": "fish" },
+      { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
+      { "category": "typeOfDish", "name": "Gratänger", "value": "gratin" },
+      { "category": "worldKitchen", "name": "Asiatisk mat", "value": "asian" }
+    ],
+    "shortInfo": "Denna maträtt är sprängdfylld av smaker från det asiatiska köket! Laxen bakas med ett täcke av sweet chili, teriyaki och olika färska kryddor och passar bra som extra sås när rätten ska serveras.",
+    "images": [
+      "./img/asianSalmon-1.jpeg",
+      "./img/asianSalmon-2.jpeg",
+      "./img/asianSalmon-3.jpeg",
+      "./img/asianSalmon-4.jpeg"
+    ],
+    "portions": "6",
+    "utensils": "Ungstermometer",
+    "recommendedSides": "Svart ris eller matvete",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Laxsida", "qty": "1", "unit": "kg" },
+          { "ingredient": "Sesamfrön", "qty": "2", "unit": "msk" },
+          { "ingredient": "Broccoli", "qty": "500", "unit": "g" },
+          { "ingredient": "Lime", "qty": "1", "unit": "st" },
+          { "ingredient": "Röd chili", "qty": "1", "unit": "st" },
+          { "ingredient": "Cashewnötter", "qty": "1", "unit": "dl" },
+          { "ingredient": "Olivolja", "qty": "1", "unit": "msk" },
+          { "ingredient": "Salt", "qty": "", "unit": "" }
+        ]
+      },
+      {
+        "title": "Glaze/ sås",
+        "ingredients": [
+          { "ingredient": "Sweet chilisås", "qty": "3", "unit": "dl" },
+          { "ingredient": "Teriyakisås", "qty": "3", "unit": "dl" },
+          { "ingredient": "Röd chili", "qty": "1", "unit": "st" },
+          { "ingredient": "Vitlöksklyftor", "qty": "4", "unit": "st" },
+          { "ingredient": "Ingefära", "qty": "4", "unit": "msk" },
+          { "ingredient": "Koriander", "qty": "1", "unit": "dl" },
+          { "ingredient": "Limeblad", "qty": "3", "unit": "st" },
+          { "ingredient": "Lime", "qty": "1", "unit": "st" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          { "text": "Sätt ugnen på 150°C." },
+          {
+            "text": "Fyll en ungsform med bakplåtspapper, lägg i laxsidan och salta i god tid innan tillagning."
+          },
+          {
+            "text": "Blanda sweet chillisås och teriyakisås i en stor skål."
+          },
+          {
+            "text": "Tillsätt hackad chili, vitlök, ingefära, koriander, limeblad, finrivet limeskal och limejuice i skålen."
+          },
+          {
+            "text": "Täck laxsidan med ett täcke av såsen, stick in ungstermometern i laxen och tillaga i ungnen tills laxen blir 47°C. "
+          },
+          {
+            "text": "Skär broccoli i buketter, om broccolin har en lång stamm, skala och skär mynt av den. Koka i lättsaltat vatten i ca 5 minuter. Häll av vattnet och tillsät olivolja och limeskal."
+          },
+          {
+            "text": "Rosta sesamfröna i en torr och het stekpanna, skär limen i tunna skivor och skär chilin i tunna skivor."
+          },
+          {
+            "text": "Ta ut laxen från ugnen och låt vila tills innertemperaturen är cirka 55°C. Garnera med sesamfrön, limeskivor och chili."
+          },
+          {
+            "text": "Servera med broccoli, chashewnötter och önskat tillbehör."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/moulesMarinieres.html",
+    "recipeName": "Moules Marinieres",
+    "date": "2022-11-24",
+    "categories": [
+      { "category": "ingredient", "name": "Skaldjur", "value": "seafood" },
+      { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
+      { "category": "typeOfDish", "name": "Grytor", "value": "stew" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "Moules Marinieres är en klassisk rätt med blåmusslor från Frankrike. Med en perfekt smakbalans från havet, färska örter, vitt vin och grädde. Rekomenderat tillbehör är frasigt vitlöksbröd.",
+    "images": [
+      "./img/moules-1.jpeg",
+      "./img/moules-2.jpeg",
+      "./img/moules-3.jpeg",
+      "./img/moules-4.jpeg"
+    ],
+    "portions": "2",
+    "utensils": "",
+    "recommendedSides": "Vitlöksbröd",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Blåmusslor", "qty": "1", "unit": "kg" },
+          { "ingredient": "Schalottenlökar", "qty": "3", "unit": "st" },
+          { "ingredient": "Vitlöksklyftor", "qty": "4", "unit": "st" },
+          { "ingredient": "Olivolja", "qty": "1", "unit": "msk" },
+          { "ingredient": "Vitt vin", "qty": "2", "unit": "dl" },
+          { "ingredient": "Vispgrädde", "qty": "5", "unit": "dl" },
+          { "ingredient": "Färsk persilja", "qty": "1", "unit": "dl" },
+          { "ingredient": "Salt, vitpeppar", "qty": "", "unit": "" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          {
+            "text": "Tvätta blåmusslorna noggrant och knacka försiktigt öppna musslor mot diskbänken. Släng alla musslor som inte stänger sig eller är trasiga."
+          },
+          { "text": "Skala och finhacka scharlottenlök och vitlök." },
+          {
+            "text": "Hetta upp olivolja i en stor gryta och fräs löken tills den har fått en gyllene färg."
+          },
+          {
+            "text": "Häll i vitt vin och när det har börjat koka tillsätt blåmusslor och låt koka under lock i cirka 10 minuter."
+          },
+          {
+            "text": "Släng alla musslor som inte har öppnat sig och lyft ur alla öppna musslor i en skål."
+          },
+          {
+            "text": "Tillsätt vispgrädde i grytan och koka upp. Smaksätt med 2/3 av persiljan, salt och vitpeppar."
+          },
+          {
+            "text": "Häll tillbaka blåmusslorna i grytan, granera med restrerande persilja och servera med valfrit önskat tillbehör."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/carrotCake.html",
+    "recipeName": "Morotstårta",
+    "date": "2022-11-25",
+    "categories": [
+      { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
+      { "category": "typeOfMeal", "name": "Efterrätt", "value": "dessert" },
+      { "category": "typeOfDish", "name": "Tårtor", "value": "cake" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "Här finner du en otroligt härlig trelagers morotstårta! Genom att finriva morötterna och använda olja istället för smör i degen bevaras tårtans saftighet. Limeskal i frostingen gör det lilla extra för en otrolig smak!",
+    "images": [
+      "./img/carrotCake-1.jpeg",
+      "./img/carrotCake-2.jpeg",
+      "./img/carrotCake-3.jpeg",
+      "./img/carrotCake-4.jpeg"
+    ],
+    "portions": "8-10",
+    "utensils": "3 st springformar 20cm Ø",
+    "recommendedSides": "",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Ägg", "qty": "4", "unit": "st" },
+          { "ingredient": "Socker", "qty": "4", "unit": "dl" },
+          { "ingredient": "Mjöl", "qty": "5", "unit": "dl" },
+          { "ingredient": "Solrosolja/ rapsolja", "qty": "3", "unit": "dl" },
+          { "ingredient": "Vaniljsocker", "qty": "1", "unit": "tsk" },
+          { "ingredient": "Bikarbonat", "qty": "2", "unit": "tsk" },
+          { "ingredient": "Bakpulver", "qty": "1", "unit": "tsk" },
+          { "ingredient": "Kanel", "qty": "1", "unit": "msk" },
+          { "ingredient": "Kardemumma", "qty": "1", "unit": "msk" },
+          { "ingredient": "Salt", "qty": "1", "unit": "nypa" },
+          { "ingredient": "Rivna morötter", "qty": "700", "unit": "g" }
+        ]
+      },
+      {
+        "title": "Cream-cheese frosting",
+        "ingredients": [
+          { "ingredient": "Philadelphiaost", "qty": "400", "unit": "g" },
+          { "ingredient": "Rumsvarmt smör", "qty": "130", "unit": "g" },
+          { "ingredient": "Florsocker", "qty": "4.5", "unit": "dl" },
+          { "ingredient": "Vaniljsocker", "qty": "2", "unit": "tsk" },
+          { "ingredient": "Lime", "qty": "1", "unit": "st" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          {
+            "text": "Sätt ugnen på 175°C"
+          },
+          { "text": "Finriv morötterna" },
+          {
+            "text": "Vispa ägg och socker pösigt."
+          },
+          {
+            "text": "Blanda alla torra ingredienser för sig och rör ner i äggsmeten."
+          },
+          { "text": "Tillsätt olja och morötter." },
+          {
+            "text": "Smöra och mjöla springformarna."
+          },
+          {
+            "text": "Fördela smeten i formarna och grädda mitt i ugnen 20-25 minuter."
+          },
+          {
+            "text": "Ta ut formarna när de känns klara och låt svalna."
+          }
+        ]
+      },
+
+      {
+        "title": "Botten",
+        "description": [
+          {
+            "text": "Vispa smöret till frostingen mjukt och tillsätt därefter philadelphiaosten."
+          },
+          {
+            "text": "Blanda i florsocker, vanlijsocker och limeskal till en jämn och fin smet."
+          }
+        ]
+      },
+      {
+        "title": "Montering",
+        "description": [
+          {
+            "text": "Jämna till tårtbottnarna om det behövs genom att skära bort lite på toppen."
+          },
+          {
+            "text": "Lägg en tårtbotten på ett fat och bred eller spritsa ett lager frosting, lägg på nästa tårtbotten, ett lager frosting och till sist den sista tårtbotten."
+          },
+          {
+            "text": "Ställ in i kylen i cirka 20-30 minuter för att låta glasyren stelna lite."
+          },
+          {
+            "text": "Går även att ställa glasyren i kylen om den känns för lös."
+          },
+          {
+            "text": "Stryk ett tunt lager glasyr på och runtom tårtan för att fånga upp smulor och låt svalna i kylen cirka 15 minuter. Fortsätt med detta steg tills tårtan har blivit jämn och töckt med så mycket glasyr som man önskar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/frenchPotatoSallad.html",
+    "recipeName": "Fransk potatissallad",
+    "date": "2022-11-26",
+    "categories": [
+      { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
+      { "category": "typeOfMeal", "name": "Tillbehör", "value": "sides" },
+      { "category": "typeOfDish", "name": "Sallad", "value": "salad" },
+      {
+        "category": "worldKitchen",
+        "name": "Svensk/nordisk mat",
+        "value": "swedish"
+      }
+    ],
+    "shortInfo": "Fransk potatissallad är det perfekta tillbehöret för den som önskar en lätt och fräsch sallad. Passar väldigt bra till gravad lax.",
+    "images": [
+      "./img/potatosallad-1.jpeg",
+      "./img/potatosallad-2.jpeg",
+      "./img/potatosallad-3.jpeg",
+      "./img/potatosallad-4.jpeg"
+    ],
+    "portions": "6",
+    "utensils": "",
+    "recommendedSides": "Gravad lax",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Potatis", "qty": "900", "unit": "g" },
+          { "ingredient": "Soltorkade tomater", "qty": "200", "unit": "g" },
+          { "ingredient": "Sockerärtor", "qty": "150", "unit": "g" },
+          { "ingredient": "Rödlök", "qty": "1", "unit": "st" },
+          { "ingredient": "Kapris", "qty": "50", "unit": "g" }
+        ]
+      },
+      {
+        "title": "Dressing",
+        "ingredients": [
+          { "ingredient": "Olivolja", "qty": "4.5", "unit": "msk" },
+          { "ingredient": "Rödvinsvinäger", "qty": "1.5", "unit": "msk" },
+          { "ingredient": "Vatten", "qty": "1.5", "unit": "msk" },
+          { "ingredient": "Senap", "qty": "1", "unit": "msk" },
+          { "ingredient": "Honung", "qty": "1", "unit": "tsk" },
+          { "ingredient": "Citronjuice", "qty": "1", "unit": "tsk" },
+          { "ingredient": "Salt, vitpeppar", "qty": "", "unit": "" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          {
+            "text": "Koka upp vatten i en stor kastrull och tillaga potatisen."
+          },
+          {
+            "text": "När potatisarna är klara skölj i kallt vatten och dela till önskad storlek."
+          },
+          {
+            "text": "Hacka soltorkade tomater, sockerärter och skiva rödlöken."
+          },
+          {
+            "text": "Blanda potatisen med de hackade grönsakerna och kapris i en stor skål."
+          },
+          {
+            "text": "Blanda alla ingredienser för dressingen i en separat skål och fördela sedan över potatissalladen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/greekPie.html",
+    "recipeName": "Grekisk paj",
+    "date": "2022-11-27",
+    "categories": [
+      { "category": "ingredient", "name": "Vegetarisk", "value": "vegetarian" },
+      { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
+      { "category": "typeOfDish", "name": "Paj", "value": "pie" },
+      { "category": "worldKitchen", "name": "Grekisk mat", "value": "greek" }
+    ],
+    "shortInfo": "Denna vegetariska grekiska paj är perfekt både till den enkla vardagen eller som tillbehör på buffébordet! Den är enkel att göra men otroligt smakrik. Blir extra god med tsatziki till.",
+    "images": [
+      "./img/veggiePie-1.jpeg",
+      "./img/veggiePie-2.jpeg",
+      "./img/veggiePie-3.jpeg",
+      "./img/veggiePie-4.jpeg"
+    ],
+    "portions": "6",
+    "utensils": "Pajform",
+    "recommendedSides": "Tsatziki",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Mjöl", "qty": "4", "unit": "dl" },
+          { "ingredient": "Smör", "qty": "200", "unit": "g" },
+          { "ingredient": "Salt, peppar", "qty": "", "unit": "" }
+        ]
+      },
+      {
+        "title": "Äggstanning",
+        "ingredients": [
+          { "ingredient": "Mjölk", "qty": "7", "unit": "dl" },
+          { "ingredient": "Ägg", "qty": "7", "unit": "st" },
+          { "ingredient": "Vatten", "qty": "3", "unit": "msk" },
+          { "ingredient": "Salt, peppar", "qty": "", "unit": "" }
+        ]
+      },
+      {
+        "title": "Fyllning",
+        "ingredients": [
+          { "ingredient": "Grönkål", "qty": "100", "unit": "g" },
+          { "ingredient": "Rödlök", "qty": "0.5", "unit": "st" },
+          { "ingredient": "Purjolök", "qty": "1", "unit": "dl" },
+          { "ingredient": "Fetaost", "qty": "100", "unit": "g" },
+          { "ingredient": "Oliver", "qty": "12", "unit": "st" },
+          { "ingredient": "Soltorkade tomater", "qty": "12", "unit": "st" },
+          { "ingredient": "Tomat", "qty": "1", "unit": "st" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          {
+            "text": "Sätt ugnen på 200°C"
+          },
+          {
+            "text": "Blanda mjöl, smör, vatten, salt och peppar till en smidig deg och tryck ut i en pajform."
+          },
+          {
+            "text": "Gaffla degen och förgrädda mitt i ugnen i 10 minuter."
+          },
+          {
+            "text": "Skiva alla ingredienser till pajens fyllning och lägg dem på den förgräddade pajskalet."
+          },
+          {
+            "text": "Blanda alla ingredienser till stanningen i en bunke och häll sedan blandningen över pajen."
+          },
+          {
+            "text": "Grädda mitt i ugnen i cirka 40-50 minuter (börjar ytan bli för mörk kan man täcka pajen med alluminiumfolie)."
+          },
+          {
+            "text": "Ta ut pajen från ugnen och låt vila."
+          },
+          {
+            "text": "Servera tillsammans med önskat tillbehör."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "htmlIndex": "./html-recept/gongBaoJiDing.html",
+    "recipeName": "Gong Bao Ji Ding",
+    "date": "2022-11-28",
+    "categories": [
+      { "category": "ingredient", "name": "Kyckling", "value": "chicken" },
+      { "category": "typeOfMeal", "name": "Huvudrätt", "value": "main" },
+      { "category": "typeOfDish", "name": "Grytor", "value": "stew" },
+      { "category": "worldKitchen", "name": "Asiatisk mat", "value": "asian" }
+    ],
+    "shortInfo": "Gong Bao Ji Ding är en populär kinesisk rätt som kommer från Sichuan provinsen. I västvärlden är denna rätt mer känd som kungpao kyckling. Men detta recept är mer Sichuan autentisk.",
+    "images": [
+      "./img/chiliChicken-1.jpeg",
+      "./img/chiliChicken-2.jpeg",
+      "./img/chiliChicken-3.jpeg",
+      "./img/chiliChicken-4.jpeg"
+    ],
+    "portions": "6",
+    "utensils": "Wok",
+    "recommendedSides": "Svart ris eller svenskt matvete",
+    "allIngredients": [
+      {
+        "title": "main",
+        "ingredients": [
+          { "ingredient": "Kyckling", "qty": "1", "unit": "kg" },
+          { "ingredient": "Vegetabiliskolja", "qty": "0.5", "unit": "dl" },
+          { "ingredient": "Torkad chili", "qty": "40", "unit": "g" },
+          { "ingredient": "Sichuanpeppar", "qty": "1", "unit": "msk" },
+          { "ingredient": "Vitlöksklyftor", "qty": "8", "unit": "st" },
+          { "ingredient": "Ingefära", "qty": "3", "unit": "msk" },
+          { "ingredient": "Salladslök/ vårlök", "qty": "15", "unit": "st" },
+          {
+            "ingredient": "Osaltade rostade jordnötter",
+            "qty": "3.5",
+            "unit": "dl"
+          },
+          { "ingredient": "Majsmjöl", "qty": "2", "unit": "msk" },
+          { "ingredient": "Vatten", "qty": "1.5", "unit": "dl" }
+        ]
+      },
+      {
+        "title": "Kycklingmarinad",
+        "ingredients": [
+          { "ingredient": "Sojasås (kinesisk)", "qty": "2", "unit": "msk" },
+          { "ingredient": "Rödvin", "qty": "2", "unit": "msk" },
+          { "ingredient": "Majsmjöl", "qty": "2", "unit": "msk" }
+        ]
+      },
+      {
+        "title": "Gong Bao sås",
+        "ingredients": [
+          { "ingredient": "Honung", "qty": "0.5", "unit": "dl" },
+          { "ingredient": "Balsamvinäger", "qty": "0.5", "unit": "dl" },
+          { "ingredient": "Sesamolja", "qty": "1", "unit": "msk" },
+          { "ingredient": "Sojasås (kinesisk)", "qty": "2", "unit": "msk" }
+        ]
+      }
+    ],
+    "fullDescription": [
+      {
+        "title": "main",
+        "description": [
+          {
+            "text": "Tillaga valfritt tillbehör enligt förpackningens anvisningar (matvete behövs inte tillagas förens efter steg 7)."
+          },
+          {
+            "text": "Skär kycklingen i 1,5 cm bitar och lägg i en bunke med kycklingmarinad."
+          },
+          {
+            "text": "Ta bort fröna från chilin och hacka 1 cm bitar."
+          },
+          {
+            "text": "Hacka vårlöken till ca 1 cm bitar."
+          },
+          { "text": "Blanda Gong Bao såsen i en skål." },
+          {
+            "text": "Riv ingefära och finhacka vitlök."
+          },
+          {
+            "text": "Blanda vatten och majsmjöl i en skål och ställ åt sidan."
+          },
+          {
+            "text": "Värm en wok på hög temperatur och tillsätt olja, chili och sichauanpeppar några sekunder för att framhäva aromerna."
+          },
+          {
+            "text": "Tillsätt kycklingen och rör om i någon minut tills kycklingen har separerats och fått stekt yta."
+          },
+          {
+            "text": "Blanda i vitlök, ingefära och vårlök och fortsätt röra om till kycklingen är nästan klar."
+          },
+          {
+            "text": "Rör i Gong Bao såsen och majsmjöl-vattnet."
+          },
+          {
+            "text": "När såsen har tjocknat och kycklingen är klar, tillsätt jordnötterna och servera direkt tillsammans med önskat tillbehör."
+          }
+        ]
+      }
+    ]
+  }
+]
